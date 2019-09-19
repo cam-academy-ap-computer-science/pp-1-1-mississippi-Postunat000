@@ -1,4 +1,11 @@
-
+/* Grading Notes
+25/25 points
+Best practice indicates that method names should be lower camel case (starting with a lower-case letter). 
+Also, methods should do one thing so if the method is intended to print letter M, that's all it should do. 
+No need to nest other letters.
+I did not deduct points for any of these things as they are more stylistic/best practice things.
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
